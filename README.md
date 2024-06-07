@@ -9,7 +9,7 @@
 - ✨ AI & ML
 <p align="left">
 ### - Hobbies : <p align="left">
-- ✨ Gaming Addict<p align="left">
+- ✨ Gaming <p align="left">
 - ✨ Watching Anime<p align="left">
 - ✨ Dancing
 
