@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 <h2> Hi, I'm Avni Kaushik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h3 align="left ">I am an undergraduate stuent fro Lingaya's Vidyapeeth University, India </h3>
+<h3 align="left ">I am an undergraduate student from Lingaya's Vidyapeeth University, India </h3>
 
 <p align="left">
 ### - Learning :<p align="left">
